@@ -1,4 +1,4 @@
-# ![Pixel Blender icon](img/icon.png) Pixel Blender
+#Pixel Blender
 
 **Image optimizer for Mac.** Blend your pixels. Keep the quality.
 
