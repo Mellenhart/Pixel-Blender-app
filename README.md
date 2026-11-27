@@ -1,10 +1,10 @@
-# ![Pixel Blender icon](PixelBlenderSwift/docs/img/icon.png) Pixel Blender
+# ![Pixel Blender icon](img/icon.png) Pixel Blender
 
 **Image optimizer for Mac.** Blend your pixels. Keep the quality.
 
 ![Version](https://img.shields.io/badge/version-3.1.0-b0306a) ![Platform](https://img.shields.io/badge/macOS-14%2B-lightgrey) ![Architecture](https://img.shields.io/badge/Apple%20silicon%20%2B%20Intel-universal-blue) ![Built with](https://img.shields.io/badge/Swift-SwiftUI-orange)
 
-![The Pixel Blender window with an image loaded](PixelBlenderSwift/docs/img/main.png)
+![The Pixel Blender window with an image loaded](img/main.png)
 
 ## About
 
